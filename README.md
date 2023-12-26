@@ -1,5 +1,5 @@
 # Project Repository
-This project aims to address the time series unit sales prediction challenge within the Corporación Favorita Grocery Sales Forecasting competition. (From HKUST(GZ)-DSAA5002 Instructed by Prof. CHEN Lei)
+Project Theme: In order to familiarize ourselves with technical details at various stages of time series tasks, this project aims to address the time series unit sales prediction challenge within a classical kaggle competition - Corporación Favorita Grocery Sales Forecasting competition。(From HKUST(GZ)-DSAA5021 Instructed by Prof. TANG Jing)
 
 **Note: We selected and extensively studied the solutions of the top competitors in the competition, and ultimately found that they employed relatively similar input-output modeling approaches. Therefore, we began our own practical implementation based on this insight:**
 [reference_project_1-by_oberoiheman](https://github.com/oberoiheman/Corporaci-n-Favorita-Grocery-Sales-Forecasting "Corporaci-n-Favorita-Grocery-Sales-Forecasting"), 
