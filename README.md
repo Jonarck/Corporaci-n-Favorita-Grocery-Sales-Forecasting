@@ -9,5 +9,5 @@ Based on these motivations and tasks, we have outlined the fundamental approach 
 
 We selected and extensively studied the solutions of the top competitors in the competition, and ultimately found that they employed relatively similar input-output modeling approaches. Therefore, we began our own practical implementation based on this insight:
 [reference_project_1-by_oberoiheman](https://github.com/oberoiheman/Corporaci-n-Favorita-Grocery-Sales-Forecasting "Corporaci-n-Favorita-Grocery-Sales-Forecasting"), 
-[reference_project_2-by_sjvasquez]([https://github.com/oberoiheman/Corporaci-n-Favorita-Grocery-Sales-Forecasting](https://github.com/sjvasquez/web-traffic-forecasting) "web-traffic-forecasting"), 
+[reference_project_2-by_sjvasquez](https://github.com/sjvasquez/web-traffic-forecasting "web-traffic-forecasting"), 
 [reference_project_3-by_weiwei](https://www.kaggle.com/code/shixw125/1st-place-lgb-model-public-0-506-private-0-511/script "1st Place LGB Model(public:0.506, private:0.511)"), 
